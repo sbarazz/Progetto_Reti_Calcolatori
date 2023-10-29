@@ -1,4 +1,6 @@
 body {
- background:  url("Finale_Champions.jpg") no-repeat auto;
+ background-image:  url("Finale_Champions.jpg");
+ background-repeat: no-repeat;
+ background-size: auto; 
 
 }
