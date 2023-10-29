@@ -5,8 +5,13 @@ body {
  background-position: center center;
  background-attachment: fixed;
 }
-/*h1 {
+h1 {
  font-size: 300px;
  color: white;
 }
-*/
+h2
+{
+ font-size: 200px;
+ color: black;
+ font-family: Cursive,"Lucida Handwriting";
+}
