@@ -1,0 +1,63 @@
+h1 {
+    position: top;
+    text-align: center;
+    font-size: 10vw;
+    color: white;
+    text-shadow: 10px 10px 50px rgba(0,0,0,0.6);
+    margin: 0;
+   }
+   h2
+   {
+    text-align: center;
+    font-size: 5vw;
+    color: rgb(10, 9, 9);
+    font-style: oblique;
+    margin: 0;
+   }
+  
+   div.foto
+   {
+    border: 5px solid goldenrod;
+    width: 50%;
+    margin: auto;
+   }
+   p{
+    color: white;
+    text-align: justify;
+    margin-top: 40px;
+    margin-left: 20%;
+    margin-right: 20%;  
+    font-family:'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: medium;
+   }
+   div.buttonL {
+    position: fixed;
+    cursor:pointer;
+    left: 15%;
+    color: goldenrod;
+    padding: 15px 32px;
+    bottom: 25%;
+    text-align: center;
+    font-size: 32px;
+  }
+  div.buttonR {
+    position: fixed;
+    cursor:pointer;
+    right: 15%;
+    bottom: 25%;
+    color: goldenrod;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 32px;
+  }
+
+  div.buttonL:hover
+  {
+    transform: scale(1.1);
+  }
+  div.buttonR:hover
+  {
+    transform: scale(1.1);
+  }
+  
