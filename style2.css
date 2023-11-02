@@ -32,20 +32,21 @@ h1 {
     font-size: medium;
    }
    div.buttonL {
-    position: fixed;
+    position: absolute;
     cursor:pointer;
-    left: 15%;
+    left: 0;
     color: goldenrod;
     padding: 15px 32px;
-    bottom: 25%;
+    bottom: 50%;
     text-align: center;
     font-size: 32px;
+    display: flex;
   }
   div.buttonR {
-    position: fixed;
+    position: absolute;
     cursor:pointer;
-    right: 15%;
-    bottom: 25%;
+    right: 0;
+    bottom: 50%;
     color: goldenrod;
     padding: 15px 32px;
     text-align: center;
