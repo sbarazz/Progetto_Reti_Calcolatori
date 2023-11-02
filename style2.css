@@ -34,7 +34,7 @@ h1 {
    div.buttonL {
     position: absolute;
     cursor:pointer;
-    left: 0;
+    left: 10;
     color: goldenrod;
     padding: 15px 32px;
     bottom: 50%;
@@ -45,7 +45,7 @@ h1 {
   div.buttonR {
     position: absolute;
     cursor:pointer;
-    right: 0;
+    right: 10;
     bottom: 50%;
     color: goldenrod;
     padding: 15px 32px;
@@ -61,4 +61,3 @@ h1 {
   {
     transform: scale(1.1);
   }
-  
